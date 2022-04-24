@@ -6,7 +6,7 @@ Design and art is my focus and passion.
 
 Skills: Maya | Blender | Substance Painter | Photoshop | AfterEffects | Premiere
 
-- 🔭 I’m currently working on HUJAM Game Project 
+- 🔭 I’m currently working on My Portfolio
 - 🌱 I’m currently learning GeoNodes in Blender 
 - 👯 I’m looking to collaborate on Game and 3D Film Projects 
 - 🤔 I’m looking for help with Coding 
